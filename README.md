@@ -4,11 +4,11 @@
 
 ## 飞行视频
 
-[![点击查看飞行视频](media/cover.jpg)](media/flight-demo.mp4)
+![扑翼无人机飞行演示](media/flight-demo.gif)
 
 **[查看 / 下载完整视频](media/flight-demo.mp4)** · 约 26 秒 · MP4
 
-视频记录了样机手抛放飞及后续飞行画面。点击封面或上方链接打开视频文件。
+上方动图自动循环展示完整飞行过程，无需跳转。视频记录了样机手抛放飞及后续飞行画面；高清 MP4 可通过上方链接查看或下载。
 
 ## 项目简介
 
@@ -27,5 +27,6 @@
 ├── README.md               # 项目介绍
 └── media/
     ├── cover.jpg           # 视频封面
+    ├── flight-demo.gif     # 首页自动播放动图
     └── flight-demo.mp4     # 原始飞行视频
 ```
